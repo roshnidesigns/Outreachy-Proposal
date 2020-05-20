@@ -1,2 +1,2 @@
 # Outreachy-Proposal
-Proposal for Outreachy intern at InterMine
+Proposal for Outreachy intern at InterMine Organization
